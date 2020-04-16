@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Roleplay">
+    <output-path>D:/Users/Dominik/Desktop</output-path>
+    <root id="archive" name="Roleplay.jar">
+      <element id="module-output" name="TDDC" />
+    </root>
+  </artifact>
+</component>

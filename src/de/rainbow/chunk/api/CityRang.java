@@ -1,0 +1,7 @@
+package de.rainbow.chunk.api;
+
+public enum CityRang {
+
+    NOBODY, MAJOR, STAFF,TEMPLERL, TEMPLER, ADELIGERL, ADELIGER, AUFGEKLEARTERL, AUFGEKLEARTER, MEMBER, ALLY, ALL;
+
+}

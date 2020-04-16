@@ -1,0 +1,19 @@
+name: Roleplay
+author: MrRainbowgamer
+version: 0.0.1
+api-version: 1.14
+main: de.rainbow.main.Roleplay
+
+commands:
+  chr:
+  spawnshop:
+  adel:
+  templer:
+  aufgeklärte:
+  acceptinvite:
+  admin:
+  stadt:
+  citychat:
+    aliases: cc
+  allychat:
+    aliases: ac
